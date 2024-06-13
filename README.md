@@ -5,6 +5,7 @@ I'm Henry, a Computer Science and Math student at Cornell University, graduating
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: henryhuartetoll@gmail.com
 - ⚡ Learning more about me : https://henrycashe26.github.io/henrycashe26/
+- 🏛️ Formal Info on the linkedin: https://www.linkedin.com/in/henry-toll-b1b398285/
 
 <!--
 **henrycashe26/henrycashe26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
