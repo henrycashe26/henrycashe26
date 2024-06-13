@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Henry, a Computer Science and Math student at Cornell University, graduating in 2026. I'm passionate about XR and AI. 
+
+- 😄 Pronouns: He/Him/His
+- 📫 How to reach me: henryhuartetoll@gmail.com
+
 <!--
 **henrycashe26/henrycashe26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
